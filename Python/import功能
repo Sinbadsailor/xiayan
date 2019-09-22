@@ -16,3 +16,16 @@ import全部功能另外的写法
 from time import * 
 print(gettime())
 
+
+
+###############################
+import 自己定义的模块或其它功能
+###############################
+def printdata(data):
+    print('I am m1:',data)
+
+
+import m1  #确保上面定义的printdata脚本和python文件在同一文件夹下.
+m1.printdata('I am python')
+
+
