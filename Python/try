@@ -13,4 +13,3 @@ else:
 	file.write('sss')
 file.close()
 
-
