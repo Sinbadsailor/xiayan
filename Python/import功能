@@ -1,0 +1,18 @@
+import功能案例；
+
+import time 
+print(time.localtime())
+
+### as 功能
+import time as t 
+print(t.localtime())
+
+import部分功能
+from time import time,localtime  ## import time和localtime两个功能.
+print(localtime)
+print(time())
+
+import全部功能另外的写法
+from time import * 
+print(gettime())
+
