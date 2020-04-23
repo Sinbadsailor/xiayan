@@ -1,0 +1,4 @@
+
+#Tempconvert.py
+
+TempStr = input("")
