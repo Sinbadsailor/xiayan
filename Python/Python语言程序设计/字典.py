@@ -11,3 +11,5 @@ d["b"] = 3;
 len(d)
 #清空d
 d.clear()
+
+### test
